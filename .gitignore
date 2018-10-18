@@ -334,3 +334,6 @@ ASALocalRun/
 
 # CMake
 cmake-build-*/
+
+# VSCode
+.vscode
