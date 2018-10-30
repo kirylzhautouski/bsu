@@ -19,3 +19,5 @@
    [gr-task66.1](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task66.1) - Canonical View (list of arcs)
    
    [gr-task66.2](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task66.2) - Canonical View (adjacency matrix)
+   
+   [gr-task67.1](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task67.1) - BFS
