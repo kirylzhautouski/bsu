@@ -332,9 +332,6 @@ ASALocalRun/
 # CLion
 .idea
 
-# CMake
-cmake-build-*/
-
 # VSCode
 .vscode
 
@@ -374,6 +371,7 @@ cmake-build-*/
 
 # CMake
 cmake-build-*/
+build/
 
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
