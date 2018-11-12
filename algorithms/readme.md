@@ -23,3 +23,5 @@
    [gr-task67.1](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task67.1) - BFS
    
    [gr-task67.2](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task67.2) - DFS
+
+   [gr-task72](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task72) - Dijkstra
