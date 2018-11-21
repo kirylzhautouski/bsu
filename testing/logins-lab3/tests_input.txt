@@ -6,10 +6,6 @@ anyinputfile.txt
 admin-admin
 file 'anyinputfile.txt' does not exist
 
-largefile.txt
-login-111111
-file 'largefile.txt' is too large
-
 logins.txt
 kirill-password
 Hi, kirill

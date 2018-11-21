@@ -16,8 +16,6 @@ public class Main {
 
                 Verification verification = new Verification(scanner.nextLine());
 
-                int counter = 0;
-
                 do {
                     System.out.print("Enter your login: ");
                     String login = scanner.nextLine();
@@ -28,9 +26,7 @@ public class Main {
                     VerificationInfo verificationInfo = verification.verificate(login, password);
                     System.out.println(verificationInfo.message);
 
-                    if (!verificationInfo.result)
-                        counter++;
-                    else
+                    if (verificationInfo.result)
                         break;
                 } while (true);
             } catch (IllegalArgumentException ex) {

@@ -42,11 +42,6 @@ public class TestRunner {
 
                     output = new StringBuilder();
                     for (int i = 0; i < loginsArray.length; i++) {
-                        StringTokenizer tokenizer = new StringTokenizer("-");
-
-                        while (tokenizer.hasMoreTokens()) {
-
-                        }
                         String[] data = loginsArray[i].split("-");
 
                         if (data.length == 1)

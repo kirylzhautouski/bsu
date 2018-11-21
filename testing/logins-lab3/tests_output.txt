@@ -14,24 +14,24 @@ output: file 'anyinputfile.txt' does not exist
 
 TEST #3 OK:
 input: 
-largefile.txt
-login-111111
-expected output: file 'largefile.txt' is too large
-output: file 'largefile.txt' is too large
-
-TEST #4 OK:
-input: 
 logins.txt
-kirill    -password
+kirill-password
 expected output: Hi, kirill
 output: Hi, kirill
 
-TEST #5 OK:
+TEST #4 OK:
 input: 
 logins.txt
 admin-11111
 expected output: invalid password
 output: invalid password
+
+TEST #5 OK:
+input: 
+logins.txt
+-password
+expected output: login is empty
+output: login is empty
 
 TEST #6 OK:
 input: 
@@ -64,28 +64,21 @@ output: password is empty
 TEST #10 OK:
 input: 
 logins.txt
-kirill-qwertyuiop
-expected output: password is longer than 8
-output: password is longer than 8
-
-TEST #11 OK:
-input: 
-logins.txt
 kirill-1111
 expected output: invalid password
 output: invalid password
 
-TEST #12 OK:
+TEST #11 OK:
 input: 
 logins.txt
-login-password/kirill-11111/kirill-password
+login-password kirill-11111 kirill-password
 expected output: invalid login/invalid password/Hi, kirill
 output: invalid login/invalid password/Hi, kirill
 
-TEST #13 OK:
+TEST #12 OK:
 input: 
 logins.txt
-login-password/kirill-11111/admin-33333
-expected output: invalid login/invalid password/invalid password
-output: invalid login/invalid password/invalid password
+login-password kirill-11111 admin-33333 name-surname admin-password
+expected output: invalid login/invalid password/invalid password/no more attempts/no more attempts
+output: invalid login/invalid password/invalid password/no more attempts/no more attempts
 
