@@ -1,0 +1,91 @@
+TEST #1 OK:
+input: 
+empty
+kirill-password
+expected output: file 'empty' is empty
+output: file 'empty' is empty
+
+TEST #2 OK:
+input: 
+anyinputfile.txt
+admin-admin
+expected output: file 'anyinputfile.txt' does not exist
+output: file 'anyinputfile.txt' does not exist
+
+TEST #3 OK:
+input: 
+largefile.txt
+login-111111
+expected output: file 'largefile.txt' is too large
+output: file 'largefile.txt' is too large
+
+TEST #4 OK:
+input: 
+logins.txt
+kirill    -password
+expected output: Hi, kirill
+output: Hi, kirill
+
+TEST #5 OK:
+input: 
+logins.txt
+admin-11111
+expected output: invalid password
+output: invalid password
+
+TEST #6 OK:
+input: 
+logins.txt
+longlogin123-password
+expected output: login is longer than 10
+output: login is longer than 10
+
+TEST #7 OK:
+input: 
+logins.txt
+somelogin-password
+expected output: invalid login
+output: invalid login
+
+TEST #8 OK:
+input: 
+logins.txt
+admin-coolpass
+expected output: Hi, admin
+output: Hi, admin
+
+TEST #9 OK:
+input: 
+logins.txt
+kirill-
+expected output: password is empty
+output: password is empty
+
+TEST #10 OK:
+input: 
+logins.txt
+kirill-qwertyuiop
+expected output: password is longer than 8
+output: password is longer than 8
+
+TEST #11 OK:
+input: 
+logins.txt
+kirill-1111
+expected output: invalid password
+output: invalid password
+
+TEST #12 OK:
+input: 
+logins.txt
+login-password/kirill-11111/kirill-password
+expected output: invalid login/invalid password/Hi, kirill
+output: invalid login/invalid password/Hi, kirill
+
+TEST #13 OK:
+input: 
+logins.txt
+login-password/kirill-11111/admin-33333
+expected output: invalid login/invalid password/invalid password
+output: invalid login/invalid password/invalid password
+

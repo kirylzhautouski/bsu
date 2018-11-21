@@ -1,0 +1,51 @@
+empty
+kirill-password
+file 'empty' is empty
+
+anyinputfile.txt
+admin-admin
+file 'anyinputfile.txt' does not exist
+
+largefile.txt
+login-111111
+file 'largefile.txt' is too large
+
+logins.txt
+kirill-password
+Hi, kirill
+
+logins.txt
+admin-11111
+invalid password
+
+logins.txt
+-password
+login is empty
+
+logins.txt
+longlogin123-password
+login is longer than 10
+
+logins.txt
+somelogin-password
+invalid login
+
+logins.txt
+admin-coolpass
+Hi, admin
+
+logins.txt
+kirill-
+password is empty
+
+logins.txt
+kirill-1111
+invalid password
+
+logins.txt
+login-password kirill-11111 kirill-password
+invalid login/invalid password/Hi, kirill
+
+logins.txt
+login-password kirill-11111 admin-33333 name-surname admin-password
+invalid login/invalid password/invalid password/no more attempts/no more attempts
