@@ -11,6 +11,8 @@
    [ds-task56](https://github.com/KirillZhelt/bsu/tree/master/algorithms/ds-task56) - Binomial Heap
 
    [ds-task5.2](https://github.com/KirillZhelt/bsu/tree/master/algorithms/ds-task5.2) - Bus Stops
+
+   [ds-task27.2](https://github.com/KirillZhelt/bsu/tree/master/algorithms/ds-task27.2) - School Network
    
 - Graphs
 
