@@ -29,3 +29,5 @@
    [gr-task67.2](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task67.2) - DFS
 
    [gr-task72](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task72) - Dijkstra
+
+   [gr-task32](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task32) - Segments
