@@ -1,0 +1,120 @@
+NonParallelMultiply(16, 16, 16): 0.005664 ms
+ParallelMultiply(ScalarMultiply, 16, 16, 16): 0.01208 ms
+ParallelMultiply(VectorMultiply, 16, 16, 16): 0.01392 ms
+NonParallelMultiply(500, 500, 500): 187.22 ms
+ParallelMultiply(ScalarMultiply, 500, 500, 500): 52.02829 ms
+ParallelMultiply(VectorMultiply, 500, 500, 500): 32.50395 ms
+NonParallelMultiply(100, 100, 100): 1.27283 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45616 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.27550 ms
+NonParallelMultiply(100, 100, 100): 1.5394 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45042 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.27075 ms
+NonParallelMultiply(100, 100, 100): 1.33513 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.44416 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26417 ms
+NonParallelMultiply(100, 100, 100): 1.25734 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.44242 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26366 ms
+NonParallelMultiply(100, 100, 100): 1.29926 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45100 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26833 ms
+NonParallelMultiply(100, 100, 100): 1.30907 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45558 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26108 ms
+NonParallelMultiply(100, 100, 100): 1.26074 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.44483 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26592 ms
+NonParallelMultiply(100, 100, 100): 1.56432 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45150 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26067 ms
+NonParallelMultiply(100, 100, 100): 1.30492 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.44858 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.25983 ms
+NonParallelMultiply(100, 100, 100): 1.25659 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45200 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.27175 ms
+NonParallelMultiply(100, 100, 100): 1.25319 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.43717 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.25583 ms
+NonParallelMultiply(100, 100, 100): 1.2649 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.44508 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26375 ms
+NonParallelMultiply(100, 100, 100): 1.26603 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.43325 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26300 ms
+NonParallelMultiply(100, 100, 100): 1.27434 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45366 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26475 ms
+NonParallelMultiply(100, 100, 100): 1.2581 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45525 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26242 ms
+NonParallelMultiply(100, 100, 100): 1.25546 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.44608 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.25692 ms
+NonParallelMultiply(100, 100, 100): 1.2615 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.44266 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26000 ms
+NonParallelMultiply(100, 100, 100): 1.25659 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45508 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.25683 ms
+NonParallelMultiply(100, 100, 100): 1.2581 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45558 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26267 ms
+NonParallelMultiply(100, 100, 100): 1.27396 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45592 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.25983 ms
+NonParallelMultiply(100, 100, 100): 1.26188 ms
+ParallelMultiply(ScalarMultiply, 100, 100, 100): 0.45225 ms
+ParallelMultiply(VectorMultiply, 100, 100, 100): 0.26233 ms
+NonParallelMultiply(16, 16, 16): 0.011328 ms
+ParallelMultiply(ScalarMultiply, 16, 16, 16): 0.01208 ms
+ParallelMultiply(VectorMultiply, 16, 16, 16): 0.01333 ms
+NonParallelMultiply(8, 8, 8): 0.001888 ms
+ParallelMultiply(ScalarMultiply, 8, 8, 8): 0.00842 ms
+ParallelMultiply(VectorMultiply, 8, 8, 8): 0.01400 ms
+NonParallelMultiply(50, 50, 50): 0.154431 ms
+ParallelMultiply(ScalarMultiply, 50, 50, 50): 0.05942 ms
+ParallelMultiply(VectorMultiply, 50, 50, 50): 0.04358 ms
+NonParallelMultiply(25, 25, 25): 0.02643 ms
+ParallelMultiply(ScalarMultiply, 25, 25, 25): 0.01792 ms
+ParallelMultiply(VectorMultiply, 25, 25, 25): 0.01675 ms
+NonParallelMultiply(18, 18, 18): 0.013216 ms
+ParallelMultiply(ScalarMultiply, 18, 18, 18): 0.01242 ms
+ParallelMultiply(VectorMultiply, 18, 18, 18): 0.01375 ms
+NonParallelMultiply(150, 150, 150): 4.29951 ms
+ParallelMultiply(ScalarMultiply, 150, 150, 150): 1.38175 ms
+ParallelMultiply(VectorMultiply, 150, 150, 150): 0.81166 ms
+ParallelMultiply(VectorMultiply2, 8, 8, 8): 0.00908 ms
+ParallelMultiply(VectorMultiply3, 8, 8, 8): 0.01342 ms
+ParallelMultiply(VectorMultiply4, 8, 8, 8): 0.01400 ms
+ParallelMultiply(VectorMultiply8, 8, 8, 8): 0.01008 ms
+ParallelMultiply(VectorMultiply16, 8, 8, 8): 0.00800 ms
+ParallelMultiply(VectorMultiply2, 50, 50, 50): 0.04033 ms
+ParallelMultiply(VectorMultiply3, 50, 50, 50): 0.05208 ms
+ParallelMultiply(VectorMultiply4, 50, 50, 50): 0.05092 ms
+ParallelMultiply(VectorMultiply8, 50, 50, 50): 0.04258 ms
+ParallelMultiply(VectorMultiply16, 50, 50, 50): 0.04350 ms
+ParallelMultiply(VectorMultiply2, 9, 9, 9): 0.01108 ms
+ParallelMultiply(VectorMultiply3, 9, 9, 9): 0.01167 ms
+ParallelMultiply(VectorMultiply4, 9, 9, 9): 0.01542 ms
+ParallelMultiply(VectorMultiply8, 9, 9, 9): 0.01142 ms
+ParallelMultiply(VectorMultiply16, 9, 9, 9): 0.00867 ms
+ParallelMultiply(VectorMultiply2, 256, 256, 256): 3.75590 ms
+ParallelMultiply(VectorMultiply3, 256, 256, 256): 4.94348 ms
+ParallelMultiply(VectorMultiply4, 256, 256, 256): 3.76473 ms
+ParallelMultiply(VectorMultiply8, 256, 256, 256): 4.22973 ms
+ParallelMultiply(VectorMultiply16, 256, 256, 256): 3.85490 ms
+ParallelMultiply(VectorMultiply2, 512, 512, 512): 41.39250 ms
+ParallelMultiply(VectorMultiply3, 512, 512, 512): 50.96771 ms
+ParallelMultiply(VectorMultiply4, 512, 512, 512): 40.97617 ms
+ParallelMultiply(VectorMultiply8, 512, 512, 512): 43.03683 ms
+ParallelMultiply(VectorMultiply16, 512, 512, 512): 56.82794 ms
+ParallelMultiply(VectorMultiply2, 128, 128, 128): 0.54675 ms
+ParallelMultiply(VectorMultiply3, 128, 128, 128): 0.65675 ms
+ParallelMultiply(VectorMultiply4, 128, 128, 128): 0.51208 ms
+ParallelMultiply(VectorMultiply8, 128, 128, 128): 0.55675 ms
+ParallelMultiply(VectorMultiply16, 128, 128, 128): 0.49850 ms
+NonParallelMultiply(128, 128, 128): 2.62079 ms
+ParallelMultiply(ScalarMultiply, 128, 128, 128): 0.85766 ms
+ParallelMultiply(VectorMultiply, 128, 128, 128): 0.49908 ms

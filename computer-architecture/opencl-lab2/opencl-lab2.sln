@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "steganography-task1", "steganography-task1\steganography-task1.vcxproj", "{BD19A555-E369-4154-8643-C3E08687D844}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrix-multiplication-task2", "matrix-multiplication-task2\matrix-multiplication-task2.vcxproj", "{D5A2B9F9-0A83-4282-926E-42CE9C029482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Intel Debug|x64 = Intel Debug|x64
+		Intel Debug|x86 = Intel Debug|x86
+		Intel Release|x64 = Intel Release|x64
+		Intel Release|x86 = Intel Release|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD19A555-E369-4154-8643-C3E08687D844}.Debug|x64.ActiveCfg = Debug|x64
+		{BD19A555-E369-4154-8643-C3E08687D844}.Debug|x64.Build.0 = Debug|x64
+		{BD19A555-E369-4154-8643-C3E08687D844}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD19A555-E369-4154-8643-C3E08687D844}.Debug|x86.Build.0 = Debug|Win32
+		{BD19A555-E369-4154-8643-C3E08687D844}.Intel Debug|x64.ActiveCfg = Intel Debug|x64
+		{BD19A555-E369-4154-8643-C3E08687D844}.Intel Debug|x64.Build.0 = Intel Debug|x64
+		{BD19A555-E369-4154-8643-C3E08687D844}.Intel Debug|x86.ActiveCfg = Intel Debug|Win32
+		{BD19A555-E369-4154-8643-C3E08687D844}.Intel Debug|x86.Build.0 = Intel Debug|Win32
+		{BD19A555-E369-4154-8643-C3E08687D844}.Intel Release|x64.ActiveCfg = Intel Release|x64
+		{BD19A555-E369-4154-8643-C3E08687D844}.Intel Release|x64.Build.0 = Intel Release|x64
+		{BD19A555-E369-4154-8643-C3E08687D844}.Intel Release|x86.ActiveCfg = Intel Release|Win32
+		{BD19A555-E369-4154-8643-C3E08687D844}.Intel Release|x86.Build.0 = Intel Release|Win32
+		{BD19A555-E369-4154-8643-C3E08687D844}.Release|x64.ActiveCfg = Release|x64
+		{BD19A555-E369-4154-8643-C3E08687D844}.Release|x64.Build.0 = Release|x64
+		{BD19A555-E369-4154-8643-C3E08687D844}.Release|x86.ActiveCfg = Debug|Win32
+		{BD19A555-E369-4154-8643-C3E08687D844}.Release|x86.Build.0 = Debug|Win32
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Debug|x64.ActiveCfg = Debug|x64
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Debug|x64.Build.0 = Debug|x64
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Debug|x86.Build.0 = Debug|Win32
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Intel Debug|x64.ActiveCfg = Debug|x64
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Intel Debug|x64.Build.0 = Debug|x64
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Intel Debug|x86.ActiveCfg = Intel Debug|Win32
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Intel Debug|x86.Build.0 = Intel Debug|Win32
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Intel Release|x64.ActiveCfg = Release|x64
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Intel Release|x64.Build.0 = Release|x64
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Intel Release|x86.ActiveCfg = Intel Release|Win32
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Intel Release|x86.Build.0 = Intel Release|Win32
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Release|x64.ActiveCfg = Release|x64
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Release|x64.Build.0 = Release|x64
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Release|x86.ActiveCfg = Debug|Win32
+		{D5A2B9F9-0A83-4282-926E-42CE9C029482}.Release|x86.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A56DE89B-E739-4F60-ADC2-B8CCB17D1BA6}
+	EndGlobalSection
+EndGlobal
