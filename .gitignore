@@ -17,6 +17,8 @@
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
+Intel Debug/
+Intel Release/
 x64/
 x86/
 bld/
