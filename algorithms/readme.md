@@ -31,3 +31,5 @@
    [gr-task72](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task72) - Dijkstra
 
    [gr-task32](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task32) - Segments
+
+   [gr-task30](https://github.com/KirillZhelt/bsu/tree/master/algorithms/gr-task30) - Dominos
