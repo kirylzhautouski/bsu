@@ -1,6 +1,5 @@
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-import org.junit.Test;
 import java.util.Arrays;
 
 public class SelectionSortTest extends TestCase {
