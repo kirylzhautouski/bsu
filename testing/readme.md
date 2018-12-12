@@ -9,3 +9,5 @@
 - [junit-intro-lab4](https://github.com/KirillZhelt/bsu/tree/master/testing/junit-intro-lab4) - Introduction to JUnit
 
 - [selection-sort-lab5](https://github.com/KirillZhelt/bsu/tree/master/testing/selection-sort-lab5) - Selection Sort
+
+- [two-numbers-lab6](https://github.com/KirillZhelt/bsu/tree/master/testing/two-numbers-lab6) - X, Y
