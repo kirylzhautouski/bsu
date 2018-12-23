@@ -4,7 +4,7 @@
 #include <tchar.h>
 
 #include "../menu/menu.h" // static library
-#include "disk_space_info.h" // plugin 3 load-time dll
+#include "../plugins/disk_space_info/disk_space_info.h" // plugin 3 load-time dll
 
 #define PLUGINNUMBER 3
 
