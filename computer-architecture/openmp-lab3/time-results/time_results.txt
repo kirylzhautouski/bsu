@@ -1,0 +1,13 @@
+FindMaxMin(a=1, b=21, n=20000000, num_of_threads=1): 166 ms
+FindMaxMin(a=1, b=21, n=20000000, num_of_threads=2): 93.0002 ms
+FindMaxMin(a=1, b=21, n=20000000, num_of_threads=3): 92.9999 ms
+FindMaxMin(a=1, b=21, n=20000000, num_of_threads=4): 93.9999 ms
+FindMaxMin(a=1, b=21, n=20000000, num_of_threads=8): 86.9999 ms
+FindMaxMin(a=1, b=21, n=20000000, num_of_threads=16): 87.0001 ms
+FindMaxMin(a=1, b=21, n=20000000, num_of_threads=32): 87.0001 ms
+FindMaxMin(a=1, b=21, n=20000000, num_of_threads=64): 87.9998 ms
+FindMaxMin(a=1, b=21, n=20000000, num_of_threads=128): 101 ms
+FindMaxMin(a=-1, b=1, n=20000000, num_of_threads=64): 92 ms
+FindMaxMin(a=-1, b=1, n=20000000, num_of_threads=64): 92 ms
+CountIntegral(a=0, b=20, n=500000, num_of_threads= 24): 14.9999 ms
+CountIntegral(a=0, b=20, n=500000, num_of_threads= 2): 0 ms
