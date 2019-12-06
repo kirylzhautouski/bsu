@@ -15,3 +15,5 @@ Repository for university labs on [FAMCS](http://www.fpmi.bsu.by/en/main.aspx), 
 - [Cryptography](https://github.com/KirillZhelt/bsu/tree/master/cryptography) - [`Python`](https://github.com/KirillZhelt/bsu/search?l=Python)
 
 - [Math Modelling](https://github.com/KirillZhelt/bsu/tree/master/math-modelling) - [`C++`](https://github.com/KirillZhelt/bsu/search?l=C%2B%2B), [`Python`](https://github.com/KirillZhelt/bsu/search?l=Python)
+
+- [Operation systems](https://github.com/KirillZhelt/bsu/tree/master/os) - [`C++`](https://github.com/KirillZhelt/bsu/search?l=C%2B%2B), [`C`](https://github.com/KirillZhelt/bsu/search?l=C)
