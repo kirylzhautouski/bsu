@@ -1,10 +1,10 @@
 from random import randint, random
 from math import gcd, sqrt
 
-def generate_prime(q, number_of_bits=256):
+def generate_prime(number_of_bits=256):
     threshold = 1 << number_of_bits
 
-    q = 3
+    q = 5
     n = 2
 
     p = q * n + 1

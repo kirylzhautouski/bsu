@@ -1,0 +1,4 @@
+binary.bin report
+2 bbb 2.200
+3 ccc 3.300
+4 ddd 4.400
