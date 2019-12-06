@@ -17,3 +17,5 @@ Repository for university labs on [FAMCS](http://www.fpmi.bsu.by/en/main.aspx), 
 - [Math Modelling](https://github.com/KirillZhelt/bsu/tree/master/math-modelling) - [`C++`](https://github.com/KirillZhelt/bsu/search?l=C%2B%2B), [`Python`](https://github.com/KirillZhelt/bsu/search?l=Python)
 
 - [Operation systems](https://github.com/KirillZhelt/bsu/tree/master/os) - [`C++`](https://github.com/KirillZhelt/bsu/search?l=C%2B%2B), [`C`](https://github.com/KirillZhelt/bsu/search?l=C)
+
+- [Web Programming](https://github.com/KirillZhelt/WebProgramming) - [`Java`](https://github.com/KirillZhelt/bsu/search?l=Java), `log2j`, `rmi`, `netty`, `sockets`, `nio`
